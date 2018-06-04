@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question_1">1. Which one of these logos falls under the Mobile Devices sector?</string>
+    <string name="question_2">2. Which one of these logos is the original Apple logo?</string>
+    <string name="question_3">3. Check all the companies that offer a delivery service.</string>
+    <string name="question_4">4. What is the name of this company?</string>
+</resources>
